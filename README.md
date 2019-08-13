@@ -1,6 +1,6 @@
 # audibene_devops-challenge
 
-Hi Stefan,
+Dear Mr. Lipinski,
 
 i am not quite sure if i understood the requirements for the second part of task correctly this time. 
 
